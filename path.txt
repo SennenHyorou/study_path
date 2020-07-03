@@ -1,3 +1,5 @@
 - Belajar github dan git
 - Belajar laravel
 - Belajar javascript dasar
+- Belajar pemakaian template dan bootstrap
+- Konsisten belajar programming
