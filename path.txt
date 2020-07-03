@@ -1,0 +1,3 @@
+- Belajar github dan git
+- Belajar laravel
+- Belajar javascript dasar
