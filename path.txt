@@ -1,7 +1,7 @@
 List yang per dibelajarkan
 - Belajar github dan git
-- Belajar laravel
-- Belajar javascript dasar
+- Belajar codeigniter
+- Belajar javascript lanjutan
 - Belajar pemakaian template dan bootstrap
 - Konsisten belajar programming at least every day has something new learned
 - Belajar swift
