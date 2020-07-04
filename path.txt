@@ -3,4 +3,5 @@ List yang per dibelajarkan
 - Belajar laravel
 - Belajar javascript dasar
 - Belajar pemakaian template dan bootstrap
-- Konsisten belajar programming
+- Konsisten belajar programming at least every day has something new learned
+- Belajar swift
